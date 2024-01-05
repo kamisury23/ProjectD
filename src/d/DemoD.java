@@ -8,8 +8,12 @@ public class DemoD {
 		// coming from eclipse. local repo
 		System.out.println("Wednesday, Thursday...");
 		
-	    System.out.println("No sleep since JAVA");
+	        System.out.println("No sleep since JAVA");
+
+		//coming from github. remote repo 
+	        System.out.println("No gym since JAVA");
 		
 	}
 
+	
 }
